@@ -61,5 +61,4 @@ with open('shazam.csv', newline="") as csvfile:
             else:
                 print("\n Download failed!")
 
-for i in range(5):
-    print("Привет")
+
